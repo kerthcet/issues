@@ -1,0 +1,1 @@
+## Make records of the issues during my daily work. Stupid or not.
