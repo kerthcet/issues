@@ -1,4 +1,4 @@
-## Records of the issues during my daily work. Stupid or not.
+## Records of the issues. Stupid or not.
 ```
 https://github.com/yaphetsglhf/issues/issues
 ```
