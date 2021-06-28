@@ -1,4 +1,1 @@
-## Records of issues. Stupid or not.
-```
-https://github.com/yaphetsglhf/issues/issues
-```
+## Records of Dayly issues. Stupid or not.
