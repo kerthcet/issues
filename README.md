@@ -1,1 +1,1 @@
-## Records of Dayly issues. Stupid or not.
+## Daily issues. Stupid or not.
